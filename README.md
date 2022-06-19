@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @noobmaster52 .
+- 👋 Hi, I’m abhinandan.
 - 👀 I’m interested in web developing , software developing.
 - 🌱 I’m currently learning java basics and i am studying BCA which provide sql/c++/JAVA language.
 - 💞️ I’m looking to collaborate on small java, javascript projects
