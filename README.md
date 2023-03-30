@@ -1,4 +1,3 @@
-#Hello there 
 
 - 👋 Hi, I’m Abhinandan karanth.
 - 👀 I’m interested in building stuff .
